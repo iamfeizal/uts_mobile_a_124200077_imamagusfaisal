@@ -15,7 +15,7 @@ class _ProfileState extends State<Profile> {
         child: Scaffold(
       appBar: AppBar(
         title: Text(
-          'Help',
+          'Profile',
         ),
         centerTitle: true,
         backgroundColor: Colors.deepPurple,
